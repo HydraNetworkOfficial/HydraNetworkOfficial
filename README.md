@@ -1,4 +1,4 @@
-<h1 align="center"> https://github.com/HydraNetworkOfficial/HydraNetworkLogo.png/blob/main/FDFB4F95-BC26-4697-B403-437A23C4E182.jpeg </h1>
+<h1 align="center">Hydra Network Team</h1>
 <h3 align="center">Our Official GitHub Page</h3>
 
 - Coding Lots Of Utilitys
