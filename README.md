@@ -1,7 +1,7 @@
 <h1 align="center">Hydra Network Team</h1>
 <h3 align="center">Our Official GitHub Pave</h3>
 
-- Coding Utilitys.
+- Coding Lots Of Utilitys
 
 - Developing **Utility Mods & Anti-Cheat**
 
