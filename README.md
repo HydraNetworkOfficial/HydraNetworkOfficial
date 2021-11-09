@@ -1,5 +1,5 @@
 <h1 align="center">Hydra Network Team</h1>
-<h3 align="center">Our Official GitHub Pave</h3>
+<h3 align="center">Our Official GitHub Page</h3>
 
 - Coding Lots Of Utilitys
 
